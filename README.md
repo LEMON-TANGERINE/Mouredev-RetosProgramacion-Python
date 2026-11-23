@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-E67E22?style=for-the-badge)
 
-STATUS: En progreso
+**STATUS**: En progreso
 
 Este repositorio reúne mis soluciones personales en **Python** a los **101 ejercicios de lógica de programación** propuestos por [Brais Moure (MoureDev)](https://moure.dev) en su plataforma oficial [retosdeprogramacion.com](https://retosdeprogramacion.com).
 
