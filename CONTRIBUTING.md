@@ -15,7 +15,7 @@ Puedes participar de varias maneras:
 3. **Correcciones:** Enmendar erratas ortográficas, fallos en enunciados o enlaces rotos en la documentación.
 4. **Discusiones constructivas:** Sugerir enfoques alternativos a través de los *Issues* del repositorio.
 
-> **Nota:** Por favor, no envíes Pull Requests que resuelvan retos pendientes del 26 al 101 sin consultar previamente, ya que el objetivo principal es que el autor resuelva el itinerario de retos de forma secuencial.
+> **Nota:** Por favor, no envíes Pull Requests que resuelvan retos pendientes que aún no hayan sido resueltos.
 
 ---
 
