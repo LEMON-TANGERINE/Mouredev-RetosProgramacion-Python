@@ -2,7 +2,7 @@
 
 ¡Gracias por tu interés en aportar a este repositorio!
 
-Este proyecto es un compendio de soluciones personales a los **101 ejercicios de lógica de programación** de [MoureDev](https://moure.dev) en [retosdeprogramacion.com](https://retosdeprogramacion.com). Aunque se trata de un repositorio personal de práctica y aprendizaje, las contribuciones constructivas que agreguen valor a la comunidad son siempre bienvenidas.
+Este proyecto es un compendio de soluciones personales a los **101 ejercicios de lógica de programación** de [MoureDev](https://moure.dev) en [retosdeprogramacion.com](https://retosdeprogramacion.com/ejercicios). Aunque se trata de un repositorio personal de práctica y aprendizaje, las contribuciones constructivas que agreguen valor a la comunidad son siempre bienvenidas.
 
 ---
 
