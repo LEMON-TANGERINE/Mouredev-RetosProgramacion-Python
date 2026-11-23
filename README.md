@@ -1,20 +1,13 @@
 # 🐍 Retos de Programación en Python — MoureDev
 
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Retos Completados](https://img.shields.io/badge/Progreso-25%20%2F%20101-F4D03F?style=for-the-badge&logoColor=0d1117&labelColor=0d1117)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-E67E22?style=for-the-badge)
+
+STATUS: En progreso
 
 Este repositorio reúne mis soluciones personales en **Python** a los **101 ejercicios de lógica de programación** propuestos por [Brais Moure (MoureDev)](https://moure.dev) en su plataforma oficial [retosdeprogramacion.com](https://retosdeprogramacion.com).
 
 El objetivo principal es ejercitar la resolución algorítmica, optimización de complejidad temporal/espacial y aplicación de buenas prácticas idiomáticas en Python (*clean & pythonic code*).
-
----
-
-## 📌 Progreso General
-
-```text
-[██████░░░░░░░░░░░░░░░░░░] 24.75% (25 / 101 Retos completados)
-```
 
 Cada archivo incluye en su cabecera el enunciado oficial original, su nivel de dificultad y una serie de comprobaciones y casos de prueba para validar la solución.
 
@@ -49,7 +42,6 @@ Cada archivo incluye en su cabecera el enunciado oficial original, su nivel de d
 | 23 | Conjuntos | Fácil | [`#23.py`](#23.py) | ✅ |
 | 24 | Máximo Común Divisor y Mínimo Común Múltiplo | Medio | [`#24.py`](#24.py) | ✅ |
 | 25 | Iteration Master | Fácil | [`#25.py`](#25.py) | ✅ |
-| 26-101 | *Retos restantes en desarrollo* | Variada | *Próximamente* | ⏳ |
 
 ---
 
