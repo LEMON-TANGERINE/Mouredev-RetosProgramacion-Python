@@ -15,33 +15,34 @@ Cada archivo incluye en su cabecera el enunciado oficial original, su nivel de d
 
 ## 📂 Listado de Retos
 
-| # | Reto | Dificultad | Solución | Estado |
-|---|------|------------|----------|:------:|
-| 1 | El Famoso "Fizz Buzz" | Fácil | [`#1.py`](#1.py) | ✅ |
-| 2 | ¿Es un Anagrama? | Medio | [`#2.py`](#2.py) | ✅ |
-| 3 | La Sucesión de Fibonacci | Difícil | [`#3.py`](#3.py) | ✅ |
-| 4 | ¿Es un Número Primo? | Medio | [`#4.py`](#4.py) | ✅ |
-| 5 | Área de un Polígono | Fácil | [`#5.py`](#5.py) | ✅ |
-| 6 | Aspect Ratio de una Imagen | Difícil | [`#6.py`](#6.py) | ✅ |
-| 7 | Invirtiendo Cadenas | Fácil | [`#7.py`](#7.py) | ✅ |
-| 8 | Contando Palabras | Medio | [`#8.py`](#8.py) | ✅ |
-| 9 | Decimal a Binario | Fácil | [`#9.py`](#9.py) | ✅ |
-| 10 | Código Morse | Medio | [`#10.py`](#10.py) | ✅ |
-| 11 | Expresiones Equilibradas | Medio | [`#11.py`](#11.py) | ✅ |
-| 12 | Eliminando Caracteres | Fácil | [`#12.py`](#12.py) | ✅ |
-| 13 | ¿Es un Palíndromo? | Medio | [`#13.py`](#13.py) | ✅ |
-| 14 | Factorial Recursivo | Fácil | [`#14.py`](#14.py) | ✅ |
-| 15 | ¿Es un Número de Armstrong? | Fácil | [`#15.py`](#15.py) | ✅ |
-| 16 | ¿Cuántos Días? | Difícil | [`#16.py`](#16.py) | ✅ |
-| 17 | En Mayúscula | Fácil | [`#17.py`](#17.py) | ✅ |
-| 18 | La Carrera de Obstáculos | Medio | [`#18.py`](#18.py) | ✅ |
-| 19 | Tres en Raya | Difícil | [`#19.py`](#19.py) | ✅ |
-| 20 | Conversor Tiempo | Fácil | [`#20.py`](#20.py) | ✅ |
-| 21 | Parando el Tiempo | Medio | [`#21.py`](#21.py) | ✅ |
-| 22 | Calculadora .txt | Medio | [`#22/#22.py`](#22/#22.py) | ✅ |
-| 23 | Conjuntos | Fácil | [`#23.py`](#23.py) | ✅ |
-| 24 | Máximo Común Divisor y Mínimo Común Múltiplo | Medio | [`#24.py`](#24.py) | ✅ |
-| 25 | Iteration Master | Fácil | [`#25.py`](#25.py) | ✅ |
+| # | Reto | Dificultad | Solución |
+|---|------|------------|----------|
+| 1 | El Famoso "Fizz Buzz" | Fácil | [`#1.py`](#1.py) |
+| 2 | ¿Es un Anagrama? | Medio | [`#2.py`](#2.py) |
+| 3 | La Sucesión de Fibonacci | Difícil | [`#3.py`](#3.py) |
+| 4 | ¿Es un Número Primo? | Medio | [`#4.py`](#4.py) |
+| 5 | Área de un Polígono | Fácil | [`#5.py`](#5.py) |
+| 6 | Aspect Ratio de una Imagen | Difícil | [`#6.py`](#6.py) |
+| 7 | Invirtiendo Cadenas | Fácil | [`#7.py`](#7.py) |
+| 8 | Contando Palabras | Medio | [`#8.py`](#8.py) |
+| 9 | Decimal a Binario | Fácil | [`#9.py`](#9.py) |
+| 10 | Código Morse | Medio | [`#10.py`](#10.py) |
+| 11 | Expresiones Equilibradas | Medio | [`#11.py`](#11.py) |
+| 12 | Eliminando Caracteres | Fácil | [`#12.py`](#12.py) |
+| 13 | ¿Es un Palíndromo? | Medio | [`#13.py`](#13.py) |
+| 14 | Factorial Recursivo | Fácil | [`#14.py`](#14.py) |
+| 15 | ¿Es un Número de Armstrong? | Fácil | [`#15.py`](#15.py) |
+| 16 | ¿Cuántos Días? | Difícil | [`#16.py`](#16.py) |
+| 17 | En Mayúscula | Fácil | [`#17.py`](#17.py) |
+| 18 | La Carrera de Obstáculos | Medio | [`#18.py`](#18.py) |
+| 19 | Tres en Raya | Difícil | [`#19.py`](#19.py) |
+| 20 | Conversor Tiempo | Fácil | [`#20.py`](#20.py) |
+| 21 | Parando el Tiempo | Medio | [`#21.py`](#21.py) |
+| 22 | Calculadora .txt | Medio | [`#22/#22.py`](#22/#22.py) |
+| 23 | Conjuntos | Fácil | [`#23.py`](#23.py) |
+| 24 | Máximo Común Divisor y Mínimo Común Múltiplo | Medio | [`#24.py`](#24.py) |
+| 25 | Iteration Master | Fácil | [`#25.py`](#25.py) |
+| 26 | Piedra, Papel, Tijera | Medio | [`#26.py`](#26.py) |
 
 ---
 
